@@ -1,7 +1,7 @@
 # ia.py
 import requests
 
-API_KEY = "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"
+API_KEY = ""
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 headers = {
