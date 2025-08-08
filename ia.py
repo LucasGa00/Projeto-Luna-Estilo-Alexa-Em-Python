@@ -1,7 +1,7 @@
 # ia.py
 import requests
 
-API_KEY = ""
+API_KEY = "SUA CHAVE DE API I.A AQUI"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 headers = {
